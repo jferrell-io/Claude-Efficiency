@@ -6,7 +6,7 @@ raw cost, hours, token usage, PR throughput, and a model-spend breakdown.
 
 No npm dependencies. Requires Node.js 22+, the Azure CLI (`az`), and an optional Jira API token.
 
-<img width="697" height="673" alt="image" src="https://github.com/user-attachments/assets/a78ae822-718f-4d44-9978-f953043ed716" />
+<img width="697" height="612" alt="image" src="https://github.com/user-attachments/assets/b29865b3-764f-44f6-826f-d45badc474f2" />
 
 ---
 
