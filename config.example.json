@@ -1,0 +1,15 @@
+{
+  "transcriptRoot": "C:/Users/YourName/.claude/projects",
+  "azdo": {
+    "org": "https://dev.azure.com/yourorg",
+    "project": "YourProject",
+    "creator": "your.email@company.com",
+    "repos": ["Repo1", "Repo2", "Repo3"]
+  },
+  "jira": {
+    "baseUrl": "https://yourorg.atlassian.net",
+    "storyPointsField": "customfield_10024",
+    "ticketPrefix": "PROJ"
+  },
+  "secretsPath": "C:/Users/YourName/.claude/efficiency-jira.json"
+}

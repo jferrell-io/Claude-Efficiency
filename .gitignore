@@ -1,0 +1,8 @@
+# Personal config and local data — do not commit
+config.json
+daily.jsonl
+state.json
+collect.log
+
+# Dev journal (personal notes, not user docs)
+DESIGN.md
